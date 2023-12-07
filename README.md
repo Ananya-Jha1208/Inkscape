@@ -1,6 +1,6 @@
 # Inkscape
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/Inkscape/blob/main/public/css/inkscape.png"> 
 </p>  
 <h2 align="center">
 Your steadfast digital diary, seamlessly capturing the essence of each day's moments and reflections!
